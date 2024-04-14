@@ -1,0 +1,4 @@
+notes.txt
+build
+*.egg-info
+__pycache__
