@@ -1,6 +1,6 @@
 # CookAPython: Under development! I'll finish it as I learn.
 
-Step by step into building C++ modules in Python.
+Step by step into building C/C++ modules in Python for starters.
 
 ## Step 1: A simple C++ file
 
